@@ -5,6 +5,8 @@
 
 演示地址：[http://danmu.qiyewei.cn](http://danmu.qiyewei.cn/)
 
+后端代码：https://github.com/tianming01/danmu-websocket
+
 演示图片：
 
 ![avatar](./src/assets/demo.jpg)
