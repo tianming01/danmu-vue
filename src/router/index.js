@@ -1,8 +1,10 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
+import { vueBaberrage } from 'vue-baberrage'
 
 Vue.use(VueRouter)
+Vue.use(vueBaberrage)
 
 const routes = [
   {

@@ -1,4 +1,13 @@
-# danmu
+# 弹幕demo
+
+## Introduction
+弹幕demo使用了vue-baberrage插件
+
+演示地址：[http://danmu.qiyewei.cn](http://danmu.qiyewei.cn/)
+
+演示图片：
+
+![avatar](./src/assets/demo.jpg)
 
 ## Project setup
 ```
